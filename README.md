@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ###Running the Application
 **Start the FastAPI server:
 1.uvicorn main:app --reload
-2.Open your browser and go to http://localhost:8000/docs to see the Swagger documentation.
+
 
 
 
